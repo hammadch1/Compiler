@@ -1,0 +1,8 @@
+<int, int>
+<identifier, hammad1>
+<(, (>
+<int, int>
+<identifier, ali2>
+<), )>
+<[, [>
+<], ]>

@@ -1,0 +1,16 @@
+<error, hammad> at Line 4
+<error, @> at Line 4
+<error, std> at Line 7
+<error, x> at Line 8
+<error, .> at Line 8
+<error, 15E> at Line 16
+<error, 1.> at Line 21
+<error, 1034.555E> at Line 24
+<error, !> at Line 34
+<error, !> at Line 35
+<error, #> at Line 38
+<error, ~> at Line 44
+<error, A> at Line 51
+<error, ^> at Line 55
+<error, &> at Line 57
+<error, |> at Line 59
